@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "name": "Symbol-description-proposal",
+  "version": "0.0.0",
+  "description": "ECMA-262 proposal to add Symbol.prototype.description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michaelficarra/Symbol-description-proposal.git"
+  },
+  "keywords": [
+    "ECMA-262",
+    "ECMAScript",
+    "Symbol",
+    "description",
+    "proposal"
+  ],
+  "author": "Michael Ficarra",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/michaelficarra/Symbol-description-proposal/issues"
+  },
+  "homepage": "https://github.com/michaelficarra/Symbol-description-proposal#readme",
+  "devDependencies": {
+    "ecmarkup": "3.11.2"
+  }
+}
